@@ -1,10 +1,11 @@
 # Dependencies
     $ npm i -S 
     express
+    ejs                    # template engine
     mongodb
     react
     react-dom
-
+    
 $ Dev-Dependencies
    $ npm i -D
    webpack
