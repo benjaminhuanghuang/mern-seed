@@ -10,7 +10,7 @@ $ Dev-Dependencies
    webpack
    babel-cli
    babel-loader            # execute the transpiler
-   babel-preset-es2015
+   babel-preset-es2015     # needed by babel
    babel-preset-stage-2
    babel-preset-react
 
