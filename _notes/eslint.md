@@ -1,0 +1,2 @@
+# config file
+    .eslintrc.js
