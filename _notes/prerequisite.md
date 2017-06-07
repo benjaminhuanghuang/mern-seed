@@ -3,9 +3,11 @@
     express
     ejs                    # template engine
     mongodb
+
     react
     react-dom
-    
+    prop-types            # prop type validation
+
 $ Dev-Dependencies
    $ npm i -D
    webpack
