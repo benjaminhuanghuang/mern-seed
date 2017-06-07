@@ -1,15 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 
-import Header from './components/header';
-
-const App = () => {
-  return ( <div className="App">
-        <Header message="Naming Contests" />
-        <div>
-        </div>
-      </div>);
-};
+import App from './components/app';
 
 ReactDOM.render(
     <App/>, 
