@@ -21,18 +21,17 @@ class App extends React.Component {
     console.log('will Unmount');
   }
 
-
+  //Spread Attributes
   render() {
     return ( <div className="App">
         <Header message={this.state.pageHeader} />
         <div>
           {this.state.contests.map(contest =>
-            <ContestPreview key={contest.id} {contest} />
+            <ContestPreview key={contest.id} {...contest} />
           )}
         </div>
       </div>);
   }
 }
-
 
 export default App;
