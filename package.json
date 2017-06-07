@@ -20,6 +20,7 @@
   },
   "homepage": "https://github.com/benjaminhuanghuang/mern-seed#readme",
   "dependencies": {
+    "axios": "^0.16.2",
     "ejs": "^2.5.6",
     "express": "^4.15.3",
     "mongodb": "^2.2.28",

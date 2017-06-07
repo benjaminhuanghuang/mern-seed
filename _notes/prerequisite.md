@@ -8,6 +8,8 @@
     react-dom
     prop-types            # prop type validation
 
+    axios                 # ajax call
+
 $ Dev-Dependencies
    $ npm i -D
    webpack
